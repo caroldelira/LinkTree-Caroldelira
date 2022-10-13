@@ -1,0 +1,31 @@
+{
+  "avatar": "https://github.com/caroldelira.png",
+  "name": "Carol de Lira",
+  "about": "Amo crianças e animais! Gosto de um bom filme e séries. No momento estou me dedicando ao Front-End e UX/UI!",
+  "social":
+  [ {
+      "name": "GitHub",
+      "url": "https://github.com/caroldelira",
+      "icon": "https://simpleicons.org/icons/github.svg",
+      "class": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ana-carolina-vasconcelos-510739183/",
+      "icon": "https://simpleicons.org/icons/linkedin.svg",
+      "class": "linkedin"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/deliracarol/",
+      "icon": "https://simpleicons.org/icons/instagram.svg",
+      "class": "instagram"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/caroldelira",
+      "icon": "https://simpleicons.org/icons/behance.svg",
+      "class": "behance"
+    }
+  ]
+}
